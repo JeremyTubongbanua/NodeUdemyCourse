@@ -1,0 +1,15 @@
+{
+	"name": "section2",
+	"version": "1.0.0",
+	"description": "-   We learn about the `http` module (built into Node.js)\r -   See (https://nodejs.org/api/http.html) and (https://www.w3schools.com/nodejs/nodejs_http.asp)\r -   We are concerned about the `createServer` method:",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon server.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^2.0.16"
+	}
+}
